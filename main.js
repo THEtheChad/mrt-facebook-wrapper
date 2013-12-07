@@ -1,0 +1,1 @@
+Facebook = Npm.require('fb');
